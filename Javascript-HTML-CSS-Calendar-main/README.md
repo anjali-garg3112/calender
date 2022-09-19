@@ -2,7 +2,7 @@
 
 ### This webpage is Calendar
 
-## By Rajesh Choudhary
+## By Anjali Garg
 
 ## Technologies Used
     # HTML
@@ -23,4 +23,4 @@ This is basic easy calendar. Just by using javascript logics with HTML CSS. No i
 ### Scope of Need
 Digital calendar become day to day utility of of individual rather than family wall calendar.
 
-## Author name: RAJESH CHOUDHARY
+## Author name: Anjali Garg
